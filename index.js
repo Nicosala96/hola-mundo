@@ -1,1 +1,2 @@
-alert("hola usuario");
+const nombreUsuario = prompt("Ingrese nombre")
+alert("hola " + nombreUsuario);
